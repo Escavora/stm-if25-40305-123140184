@@ -8,9 +8,9 @@ Semester Ganjil 2026/2027
 
 ## Daftar Tugas
 
-| Folder                   | Tugas            | Topik                                                                 | Status  |
-| ------------------------ | ---------------- | --------------------------------------------------------------------- | ------- |
-| `02_audio_noise_statis/` | Tugas 2          | Analisis sinyal suara, visualisasi 4 dimensi, resampling dan aliasing | Selesai |
+| Folder                   | Tugas   | Topik                                                                 | Status  |
+| ------------------------ | ------- | --------------------------------------------------------------------- | ------- |
+| `02_audio_noise_statis/` | Tugas 2 | Analisis sinyal suara, visualisasi 4 dimensi, resampling dan aliasing | Selesai |
 
 ## Lingkungan Pengembangan
 
